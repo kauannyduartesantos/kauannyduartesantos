@@ -29,6 +29,15 @@
 </div>
 
 <div align="left">
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/kauannyduartesantos/kauannyduartesantos/output/github-contribution-grid-snake-dark.svg"
+    alt="Cobrinha rosa das contribuições do GitHub"
+    width="100%"
+  />
+</div>
+
  
   ## *Github Statistics* 📊 
 
@@ -51,6 +60,7 @@
 ♡ Sempre aprendendo e evoluindo na tecnologia ♡
 
 </div>
+
 
 
 
