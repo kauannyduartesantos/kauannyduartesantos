@@ -12,7 +12,7 @@
 **Tecnologia, criatividade e soluções que fazem a diferença.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-29232D?style=for-the-badge&logo=github&logoColor=E89AB8)](https://github.com/kauannyduartesantos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20perfil-29232D?style=for-the-badge&logo=linkedin&logoColor=#FFC0CB)](https://www.linkedin.com/in/kauanny-duarte-santos/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MEU%20PERFIL-E89AB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanny-duarte-santos/)
 
 </div>
 
