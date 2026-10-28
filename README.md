@@ -30,7 +30,7 @@
 
 <div align="left">
  
-  ## 𝐺𝑖𝑡𝐻𝑢𝑏 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 📊 
+  ## *Github Statistics* 📊 
 
 <div align="left">
 
