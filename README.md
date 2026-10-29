@@ -41,7 +41,7 @@
  
   ## *Github Statistics* 📊 
 
-<div align="left">
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kauannyduartesantos&show_icons=true&hide_border=true&bg_color=15121A&title_color=E89AB8&icon_color=D889A8&text_color=E8DCE3&include_all_commits=true&rank_icon=github" alt="GitHub Statistics">
 
