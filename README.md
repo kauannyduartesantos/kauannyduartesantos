@@ -45,7 +45,6 @@
 
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannyduartesantos&layout=compact&hide_border=true&bg_color=15121A&title_color=E89AB8&text_color=E8DCE3" alt="Most Used Languages">
 
 
 
